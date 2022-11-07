@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\myprojects\\SnappetChallengAPI\\SnappetChallengAPI\\SnappetChallengAPI.csproj",
+      "projectUniqueName": "E:\\Assignment\\SnappetChallenge\\backend\\SnappetChallengAPI\\SnappetChallengAPI.csproj",
       "projectName": "SnappetChallengAPI",
-      "projectPath": "E:\\myprojects\\SnappetChallengAPI\\SnappetChallengAPI\\SnappetChallengAPI.csproj",
+      "projectPath": "E:\\Assignment\\SnappetChallenge\\backend\\SnappetChallengAPI\\SnappetChallengAPI.csproj",
       "packagesPath": "C:\\Users\\Nafiseh\\.nuget\\packages\\",
-      "outputPath": "E:\\myprojects\\SnappetChallengAPI\\SnappetChallengAPI\\obj\\",
+      "outputPath": "E:\\Assignment\\SnappetChallenge\\backend\\SnappetChallengAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nafiseh\\AppData\\Roaming\\NuGet\\NuGet.Config",
